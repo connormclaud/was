@@ -1,27 +1,25 @@
 ---
 title: Flavor Framework
 layout: default
-nav_order: 5
+nav_order: 6
 ---
 
 # Flavor Framework — The Axis Rule
 
-Each assembly must select **one component per axis**. This ensures every meal is balanced in flavor, satiety, and texture.
+To ensure palatability, digestion, and appetite satisfaction without adding excessive calories, pre-portioned batch meals ([Anchor Modules]({% link anchor-modules.md %})) are finished at assembly using the 5-Axis Flavor Rule. Select **one component per axis** when plating batch meals.
 
-| Axis | Purpose | Options |
-|------|---------|---------|
-| **Acid** | Appetite, mineral absorption | Lemon, lime, apple cider vinegar |
-| **Fat** | Satiety, fat-soluble vitamins | Olive oil, tahini, avocado |
-| **Heat** | Portion control | Chili flakes, harissa, mustard |
-| **Fresh** | Aromatic complexity | Parsley, mint, green onions |
-| **Crunch** | Glycemic smoothing | Radishes, cucumber, seeds |
+| Axis | System Purpose | Options |
+|------|----------------|---------|
+| **Acid** | Enhances mineral absorption, cuts richness | Lemon juice, lime juice, apple cider vinegar (ACV) |
+| **Fat** | Fat-soluble vitamin uptake, satiety control | Extra virgin olive oil (measured 5–10 g), pumpkin seed oil, avocado |
+| **Heat** | Thermogenesis, flavor depth without sodium | Chili flakes, sriracha, cayenne, harissa, Dijon mustard |
+| **Fresh** | Aromatic complexity, polyphenol boost | Parsley, cilantro, green onions, dill |
+| **Crunch** | Glycemic smoothing, mastication feedback | Radishes, sliced cucumber, toasted pumpkin/sunflower seeds |
 
-## How It Works
+## Practical Application Examples
 
-Pick one from each row. Combine with an [Anchor Module]({% link anchor-modules.md %}). That's your meal.
+### Batch Chicken & Rice Bowl
+> Batch Chicken Breast + Basmati Rice + Squeezed Lemon + 5 g Olive Oil + Chili Flakes + Chopped Parsley + Sliced Radish
 
-### Example Assembly
-
-> Anchor A (chicken + basmati) + lemon + tahini + chili flakes + mint + radishes
-
-Total assembly time: ~5 minutes. No cooking required.
+### Wednesday Omelette & Mackerel
+> 3-Egg Omelette + Canned Mackerel + Lime Juice + Fresh Dill + Sliced Cucumber

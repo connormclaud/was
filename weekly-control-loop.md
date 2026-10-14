@@ -1,37 +1,60 @@
 ---
 title: Weekly Control Loop
 layout: default
-nav_order: 3
+nav_order: 4
 ---
 
-# Weekly Control Loop
+# Weekly Control Loop & Meal Plan
 
-The week follows a fixed rhythm of batch prep and assembly.
+The nutrition workflow is structured around two batch-cooking sessions per week (Sunday and Wednesday) combined with a strict fridge/freezer rotation to eliminate daily decision fatigue, ensure maximum food safety, and sustain nutritional compliance.
 
-| Day | Activity | Time | Focus |
-|-----|----------|------|-------|
-| Sunday | Batch A | 45–60 min | Lean poultry, whole grain, 2 sauces |
-| Wednesday | Batch B | 40–45 min | Legumes/lean beef, 1 fresh topping |
-| Friday | Micro-Reset | 10 min | Re-portion, re-acidify, texture rescue |
-| Saturday | Ceremonial | Variable | Slow cooking, technical skill, joy |
-| Mon–Fri | Assembly | ≤10 min | Rapid deployment, zero cooking |
+## Two-Session Batch-Cook Architecture
 
-## Sunday — Batch A
+| Session | Time | Production Focus | Storage / Rotation |
+|---------|------|------------------|--------------------|
+| **Sunday Batch** | ~60 min | • 1 dozen hard-boiled eggs<br>• Mon–Wed Lunch Chicken (~360–420 g cooked total)<br>• Mon Chili con carne & Tue Baked salmon<br>• Grains & roasted vegetables | **Fridge**: Mon & Tue lunches & dinners.<br>**Freezer**: Wed lunch & dinner portions (thaw Tue night). |
+| **Wednesday Batch** | ~45 min | • Thu–Fri Lunch Chicken (~240–280 g cooked total)<br>• Thu Chili con carne & Fri Baked salmon<br>• Grains & roasted vegetables | **Fridge**: Thu lunch & dinner.<br>**Freezer**: Fri lunch & dinner portions (thaw Thu night). |
 
-Prepare [Anchor A]({% link anchor-modules.md %}#anchor-a--poultry--fiber-base): sear and rest poultry, cook and cool grains (for [resistant starch](#resistant-starch)), prepare two sauces. Portion into 5 weekday servings + 2 frozen contingency.
+### Fridge & Freezer Storage Protocol
+- **Mon & Tue Meals**: Kept directly in the refrigerator after Sunday prep.
+- **Wed–Fri Meals**: Portioned into freezer-safe containers immediately after cooling.
+- **Thawing Rule**: Move the next day's frozen meal from the freezer to the refrigerator the night before consumption (~12–16 hours prior).
 
-## Wednesday — Batch B
+---
 
-Prepare [Anchor B]({% link anchor-modules.md %}#anchor-b--alternating-metabolic-load): roasted chickpeas/tofu or browned lean beef, cook bulgur or quinoa, prepare one fresh topping.
+## 7-Day Master Meal Plan
 
-## Friday — Micro-Reset
+### Daily Weekday Baseline (Mon–Fri)
 
-Quality control pass: re-portion any remaining components, refresh acid levels, rescue textures that have degraded in the fridge.
+- **Breakfast**: Skyr + Magerquark bowl (~65 g protein) topped with rotating berries, banana, and rotating nuts.
+- **Lunch**: Batch-cooked chicken breast (~180 g cooked serving / ~48 g protein) paired with rice or quinoa and roasted vegetables.
+- **Snack**: 2–3 hard-boiled eggs (from the Sunday batch-boiled dozen).
 
-## Saturday — Ceremonial
+### Dinner Rotation (Mon–Fri)
 
-Unstructured. Slow cooking, experimentation, or eating out. This is the creative outlet — no constraints apply.
+| Day | Dinner Selection | Protein Content | Notes |
+|-----|------------------|-----------------|-------|
+| **Monday** | Batch Chili Con Carne | ~45 g protein | Lean ground beef base |
+| **Tuesday** | Batch Baked Salmon | ~42 g protein | Fatty acid & joint support |
+| **Wednesday** | 3-Egg Omelette + Canned Mackerel | ~40–45 g protein | Quick no-cook / fresh variety night |
+| **Thursday** | Batch Chili Con Carne | ~45 g protein | Prepared in Wed batch cook |
+| **Friday** | Batch Baked Salmon | ~42 g protein | Prepared in Wed batch cook |
 
-## Resistant Starch
+---
 
-Cooking grains on Sunday and cooling them completely in the fridge triggers retrogradation, converting digestible starches into Resistant Starch (Type 3). This feeds gut bacteria, lowers effective calorie count, and blunts insulin response compared to freshly cooked grains.
+## Weekend Protocols
+
+### Saturday — Long Ride Fueling Day
+
+- **Pre-Ride Breakfast**: Large carbohydrate load featuring oats, Skyr, banana, and honey.
+- **On-Bike Fueling**: 40–60 g carbs/hour during the ride.
+- **Post-Ride Lunch**: Pasta or rice with canned tuna or remaining batch protein base.
+- **Dinner**: Freshly cooked steak or fish with potatoes.
+- **Daily Target**: Scaled dynamically with ride expenditure (e.g., ~3,600 kcal total for ~1,800 kcal ride burn).
+
+### Sunday — 2,300 kcal Maintenance & Prep Day
+
+- **Breakfast / Lunch**: Light eggs on toast or remaining batch meal for lunch.
+- **Afternoon Batch Prep**: Execute Sunday Batch-Cook Session (boil 1 dozen eggs, cook chicken, chili, salmon, grains, and veg).
+- **Dinner**: Freshly cooked dinner eaten straight from that afternoon's batch cook.
+- **Daily Target**: Full maintenance (~2,300 kcal) with no deficit.

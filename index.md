@@ -6,23 +6,20 @@ nav_order: 1
 
 # Wholesome Assembly System
 
-An engineering methodology for home meal preparation — optimizing daily cooking time while meeting WHO-aligned nutritional targets.
+An engineering methodology for home meal preparation and targeted nutrition — optimizing daily cooking time while meeting rigorous physiological and athletic demands.
 
-## Core Principles
+## Core Architecture
 
-- **Time-constrained**: ≤15 min active cooking on weekdays
-- **Nutrition-first**: ~2500 kcal/day, 1.2–1.6 g protein/kg, ≥30 g fiber, <5 g salt
-- **Modular**: interchangeable components assembled on demand
-- **Failure-tolerant**: every mode has a mitigation strategy
+- **Physiological Target**: Calibrated for a 100 kg profile (~38.0 kg SMM, ~28.6% body fat) aiming for ~3,250–3,500 kcal weekly deficit (~0.42–0.45 kg fat loss/week).
+- **Macro Floors**: Strict protein floor (160–180 g/day) and fat floor (65–75 g/day) across all 7 days.
+- **Two-Session Batch Loop**: Sunday (Mon–Wed meals + 1 dozen eggs) & Wednesday (Thu–Fri meals) batch sessions with fridge/freezer rotation.
+- **Athletic Fueling Protocols**: Specific peri-workout carb timing for strength sessions, Saturday long ride intra-workout fueling (40–60 g carbs/hr), and pre-breakfast run hydration/protein protocol.
 
-## How It Works
+## System Sections
 
-Meals are built from pre-prepared **anchor modules** (protein + grain bases) combined with a **flavor framework** (acid, fat, heat, fresh, crunch). A **weekly control loop** schedules batch prep on Sundays and Wednesdays, with weekday assembly taking under 10 minutes.
-
-## Sections
-
-- [System Constraints]({% link system-constraints.md %}) — time budgets, macro targets, guidelines
-- [Weekly Control Loop]({% link weekly-control-loop.md %}) — the batch cooking schedule
-- [Anchor Modules]({% link anchor-modules.md %}) — protein and grain bases
-- [Flavor Framework]({% link flavor-framework.md %}) — the Axis Rule
-- [Failure Modes]({% link failure-modes.md %}) — when things go wrong
+- [System Constraints]({% link system-constraints.md %}) — physiological profile, energy budget, macro floors
+- [Fueling & Timing Protocols]({% link fueling-protocols.md %}) — strength peri-workout, long ride on-bike fueling, pre-breakfast run
+- [Weekly Control Loop & Meal Plan]({% link weekly-control-loop.md %}) — two-session batch workflow, fridge/freezer rotation, 7-day meal plan
+- [Anchor Modules & Recipes]({% link anchor-modules.md %}) — Skyr bowl, chicken bowls, chili con carne, salmon, hard-boiled eggs, omelette/mackerel
+- [Flavor Framework]({% link flavor-framework.md %}) — the 5-Axis Rule for meal assembly
+- [Failure Modes & Mitigations]({% link failure-modes.md %}) — protocols for thawing, missed prep, and fueling recovery
