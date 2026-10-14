@@ -4,6 +4,8 @@
 
 An engineering methodology for home meal preparation and performance nutrition. WAS treats nutrition and meal prep like a well-designed system: modular components, batch production, strict macro floors, performance fueling protocols, and rapid assembly.
 
+**Live Wiki**: [https://connormclaud.github.io/was/](https://connormclaud.github.io/was/)
+
 **The Strategy**:
 - Calibrated for a 100 kg profile (~38.0 kg SMM, ~28.6% body fat).
 - Targets a ~3,250–3,500 kcal weekly deficit loaded on high-burn days, leaving Sunday at full maintenance (~2,300 kcal).
@@ -11,4 +13,4 @@ An engineering methodology for home meal preparation and performance nutrition. 
 - Two batch prep sessions per week (Sunday & Wednesday) with a strict fridge/freezer rotation.
 - Dedicated fueling protocols for strength workouts, long bike rides, and pre-breakfast runs.
 
-Built with [Jekyll](https://jekyllrb.com/) and [Just the Docs](https://just-the-docs.com/). Deployed on [GitHub Pages](https://pages.github.com/).
+Built with [Jekyll](https://jekyllrb.com/) and [Just the Docs](https://just-the-docs.com/). Deployed on [GitHub Pages](https://connormclaud.github.io/was/).
