@@ -21,10 +21,11 @@ Anchor modules are the pre-prepared batch protein and carbohydrate bases that an
 - 100 g Rotating berries (frozen or fresh: blueberries, raspberries, blackberries)
 - 1 Medium banana
 - 15–20 g Rotating nuts (walnuts, almonds, or pumpkin seeds)
+- Ground cinnamon (optional, to taste for glycemic control and flavor variation)
 
 ### Method
 1. Scoop 400 g Skyr or 500 g Magerquark into a large bowl.
-2. Top with sliced banana, berries, and nuts.
+2. Top with sliced banana, berries, nuts, and a dash of ground cinnamon.
 
 ---
 
