@@ -26,7 +26,7 @@ The nutrition workflow is structured around two batch-cooking sessions per week 
 
 ### Daily Weekday Baseline (Mon–Fri)
 
-- **Breakfast**: Skyr + Magerquark bowl (~65 g protein) topped with rotating berries, banana, and rotating nuts.
+- **Breakfast**: Skyr or Magerquark bowl (400 g Skyr or 500 g Magerquark, rotated without mixing, ~45–65 g protein) topped with rotating berries, banana, and rotating nuts.
 - **Lunch**: Batch-cooked chicken breast (~180 g cooked serving / ~48 g protein) paired with rice or quinoa and roasted vegetables.
 - **Snack**: 2–3 hard-boiled eggs (from the Sunday batch-boiled dozen).
 
@@ -46,7 +46,7 @@ The nutrition workflow is structured around two batch-cooking sessions per week 
 
 ### Saturday — Long Ride Fueling Day
 
-- **Pre-Ride Breakfast**: Large carbohydrate load featuring oats, Skyr, banana, and honey.
+- **Pre-Ride Breakfast**: Large carbohydrate load featuring oats, Skyr/Magerquark, banana, and honey.
 - **On-Bike Fueling**: 40–60 g carbs/hour during the ride.
 - **Post-Ride Lunch**: Pasta or rice with canned tuna or remaining batch protein base.
 - **Dinner**: Freshly cooked steak or fish with potatoes.

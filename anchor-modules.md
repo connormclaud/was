@@ -10,21 +10,20 @@ Anchor modules are the pre-prepared batch protein and carbohydrate bases that an
 
 ---
 
-## Anchor 1 — Daily Breakfast Skyr & Magerquark Bowl
+## Anchor 1 — Daily Breakfast Skyr or Magerquark Bowl
 
 - **Yield**: Daily morning baseline (1 serving)
-- **Protein**: ~65 g
+- **Protein**: ~45–65 g
 - **Preparation**: 5 minutes daily assembly
 
 ### Ingredients
-- 250 g Skyr (e.g., Rewe / ja!)
-- 250 g Magerquark (low-fat quark)
+- **Rotating Dairy Base**: 400 g Skyr OR 500 g Magerquark (rotated daily/weekly, not mixed)
 - 100 g Rotating berries (frozen or fresh: blueberries, raspberries, blackberries)
 - 1 Medium banana
 - 15–20 g Rotating nuts (walnuts, almonds, or pumpkin seeds)
 
 ### Method
-1. Combine Skyr and Magerquark in a large bowl and stir until smooth.
+1. Scoop 400 g Skyr or 500 g Magerquark into a large bowl.
 2. Top with sliced banana, berries, and nuts.
 
 ---
