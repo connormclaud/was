@@ -1,34 +1,115 @@
 ---
 title: Anchor Modules
 layout: default
-nav_order: 4
+nav_order: 5
 ---
 
-# Anchor Modules
+# Anchor Modules & Recipes
 
-Anchors are the protein + grain bases prepared during batch sessions. Each assembly starts by selecting an anchor, then adding components from the [Flavor Framework]({% link flavor-framework.md %}).
+Anchor modules are the pre-prepared batch protein and carbohydrate bases that anchor every meal in the weekly plan. Prepared during the Sunday and Wednesday batch-cooking sessions, these modules eliminate daily cooking while ensuring strict macro targets are met.
 
-## Anchor A — Poultry & Fiber Base
+---
 
-Prepared on **Sunday** as part of [Batch A]({% link weekly-control-loop.md %}#sunday--batch-a).
+## Anchor 1 — Daily Breakfast Skyr or Magerquark Bowl
 
-- **Protein**: 1.8–2.0 kg lean chicken inner fillets
-- **Grain**: Vollkorn Basmati, parboiled then cooled (resistant starch)
-- **Thermal control**: high-heat sear, low-heat finish. Pull at 68–70°C, rest 10 min
-- **Portioning**: 5x main (200–220 g cooked), 2x frozen contingency
+- **Yield**: Daily morning baseline (1 serving)
+- **Protein**: ~45–65 g
+- **Preparation**: 5 minutes daily assembly
 
-## Anchor B — Alternating Metabolic Load
+### Ingredients
+- **Rotating Dairy Base**: 400 g Skyr OR 500 g Magerquark (rotated daily/weekly, not mixed)
+- 100 g Rotating berries (frozen or fresh: blueberries, raspberries, blackberries)
+- 1 Medium banana
+- 15–20 g Rotating nuts (walnuts, almonds, or pumpkin seeds)
+- Ground cinnamon (optional, to taste for glycemic control and flavor variation)
 
-Prepared on **Wednesday** as part of [Batch B]({% link weekly-control-loop.md %}#wednesday--batch-b).
+### Method
+1. Scoop 400 g Skyr or 500 g Magerquark into a large bowl.
+2. Top with sliced banana, berries, nuts, and a dash of ground cinnamon.
 
-### Default (Plant-Forward)
+---
 
-- **Protein**: Chickpeas (roasted) + tofu (pressed, roasted)
-- **Grain**: Bulgur or quinoa (rotated)
+## Anchor 2 — Batch Lunch Chicken Breast & Grain / Carbohydrate Bowls
 
-### Optional Cycle (2–3x/month)
+- **Yield**: 5 weekday lunch portions (~180 g cooked chicken / ~48 g protein per serving)
+- **Batch Raw Mass**: 600 g raw chicken breast per batch (standard retail pack size e.g. Rewe / ja!)
 
-- **Protein**: Lean ground beef, dry-browned, water/vinegar deglaze
-- **Grain**: Bulgur or quinoa (rotated)
+### Ingredients
+- 600 g Raw chicken breast (standard pack size)
+- **Rotating Carbohydrate Base**: Vollkorn Basmati rice, Quinoa, Buckwheat (Buchweizen), or boiled/roasted Potatoes
+- Roasted mixed vegetables (zucchini, bell peppers, broccoli, carrots)
+- Olive oil, salt, pepper, paprika, garlic powder
 
-*Note: Bulgur contains gluten.*
+### Method
+1. **Carbohydrate Prep**: Cook rice, quinoa, buckwheat, or potatoes in salted water. Cool rapidly to trigger retrogradation (resistant starch formation).
+2. **Protein Prep**: Season chicken breasts. Heat a skillet over medium-high heat with a light spray of olive oil. Sear chicken to an internal temperature of 72°C. Rest for 10 minutes before slicing.
+3. **Vegetable Prep**: Toss sliced vegetables in 1 tbsp olive oil and salt, roast at 200°C for 20 minutes.
+4. **Portioning**: Portion cooked chicken, 150 g cooked carbohydrate base (rice/quinoa/buckwheat/potatoes), and 150 g vegetables into container modules. Keep Mon–Tue in fridge; freeze Wed–Fri portions.
+
+---
+
+## Anchor 3 — Lean Beef Chili Con Carne
+
+- **Yield**: 3 portions (Mon dinner, Wed dinner, Thu lunch)
+- **Protein**: ~45 g per serving
+
+### Ingredients
+- 450–500 g Lean ground beef (≤5% or ≤7% fat)
+- 1–2 Cans kidney beans (drained)
+- 1 Can chopped tomatoes
+- 1 Onion, diced & 2 cloves garlic, minced
+- Chili powder, cumin, oregano, smoked paprika, salt
+
+### Method
+1. Brown the ground beef in a heavy pan over medium-high heat until fully cooked. Drain excess liquid.
+2. Add diced onion and garlic; cook until soft.
+3. Stir in spices, canned tomatoes, and kidney beans. Simmer for 20–25 minutes until thickened.
+4. Portion equally into 3 servings for Monday dinner, Wednesday dinner, and Thursday lunch.
+
+---
+
+## Anchor 4 — Baked Salmon Fillets
+
+- **Yield**: 2 dinner portions (Tue & Fri)
+- **Protein**: ~42 g per serving
+
+### Ingredients
+- 2 Salmon fillets (~180–200 g each)
+- Lemon juice, dill, garlic powder, salt, black pepper
+- Roasted potatoes or steamed green vegetables as side base
+
+### Method
+1. Preheat oven to 190°C.
+2. Season salmon fillets with salt, pepper, garlic powder, dill, and a drizzle of lemon juice.
+3. Bake for 12–15 minutes until tender and flakey.
+4. Pair with portioned roasted potatoes or greens.
+
+---
+
+## Anchor 5 — Hard-Boiled Eggs (Daily Snack Module)
+
+- **Yield**: 12 hard-boiled eggs (Batch-boiled every Sunday)
+- **Usage**: 2–3 eggs/day as a daily afternoon snack
+
+### Method
+1. Lower 12 large eggs into boiling water.
+2. Boil for 9 minutes (firm yolk).
+3. Transfer immediately to an ice bath for 10 minutes to stop cooking and facilitate easy peeling.
+4. Store in shell in the refrigerator for up to 7 days.
+
+---
+
+## Anchor 6 — Wednesday Omelette & Mackerel
+
+- **Yield**: 1 fresh quick dinner serving (Wednesday)
+- **Protein**: ~40–45 g
+
+### Ingredients
+- 3 Large eggs
+- 1 Can canned mackerel in olive oil or brine (~100–120 g)
+- Fresh herbs or spinach
+
+### Method
+1. Whisk 3 eggs with salt and pepper.
+2. Pour into a non-stick pan over medium heat; cook until set.
+3. Serve immediately alongside drained canned mackerel and a side salad.
