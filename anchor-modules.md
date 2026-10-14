@@ -32,10 +32,10 @@ Anchor modules are the pre-prepared batch protein and carbohydrate bases that an
 ## Anchor 2 — Batch Lunch Chicken Breast & Grain Bowls
 
 - **Yield**: 5 weekday lunch portions (~180 g cooked chicken / ~48 g protein per serving)
-- **Batch Raw Mass**: ~600–700 g raw chicken breast per batch (Sunday batch for Mon–Wed; Wednesday batch for Thu–Fri)
+- **Batch Raw Mass**: 600 g raw chicken breast per batch (standard retail pack size e.g. Rewe / ja!)
 
 ### Ingredients
-- Raw chicken breast (inner fillets or whole breasts)
+- 600 g Raw chicken breast (standard pack size)
 - Vollkorn Basmati rice or Quinoa
 - Roasted mixed vegetables (zucchini, bell peppers, broccoli, carrots)
 - Olive oil, salt, pepper, paprika, garlic powder
@@ -44,7 +44,7 @@ Anchor modules are the pre-prepared batch protein and carbohydrate bases that an
 1. **Grain Prep**: Cook rice or quinoa in water. Cool rapidly to trigger retrogradation (resistant starch formation).
 2. **Protein Prep**: Season chicken breasts. Heat a skillet over medium-high heat with a light spray of olive oil. Sear chicken to an internal temperature of 72°C. Rest for 10 minutes before slicing.
 3. **Vegetable Prep**: Toss sliced vegetables in 1 tbsp olive oil and salt, roast at 200°C for 20 minutes.
-4. **Portioning**: Portion ~180 g cooked chicken, 150 g cooked grain, and 150 g vegetables into container modules. Keep Mon–Tue in fridge; freeze Wed–Fri portions.
+4. **Portioning**: Portion cooked chicken, 150 g cooked grain, and 150 g vegetables into container modules. Keep Mon–Tue in fridge; freeze Wed–Fri portions.
 
 ---
 
