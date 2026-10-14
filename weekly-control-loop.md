@@ -26,8 +26,8 @@ The nutrition workflow is structured around two batch-cooking sessions per week 
 
 ### Daily Weekday Baseline (Mon–Fri)
 
-- **Breakfast**: Skyr or Magerquark bowl (400 g Skyr or 500 g Magerquark, rotated without mixing, ~45–65 g protein) topped with rotating berries, banana, and rotating nuts.
-- **Lunch**: Batch-cooked chicken breast (~180 g cooked serving / ~48 g protein) paired with rice or quinoa and roasted vegetables.
+- **Breakfast**: Skyr or Magerquark bowl (400 g Skyr or 500 g Magerquark, rotated without mixing, ~45–65 g protein) topped with rotating berries, banana, nuts, and ground cinnamon.
+- **Lunch**: Batch-cooked chicken breast (~180 g cooked serving / ~48 g protein) paired with rice, quinoa, buckwheat, or potatoes and roasted vegetables.
 - **Snack**: 2–3 hard-boiled eggs (from the Sunday batch-boiled dozen).
 
 ### Dinner Rotation (Mon–Fri)
@@ -36,8 +36,8 @@ The nutrition workflow is structured around two batch-cooking sessions per week 
 |-----|------------------|-----------------|-------|
 | **Monday** | Batch Chili Con Carne | ~45 g protein | Lean ground beef base |
 | **Tuesday** | Batch Baked Salmon | ~42 g protein | Fatty acid & joint support |
-| **Wednesday** | 3-Egg Omelette + Canned Mackerel | ~40–45 g protein | Quick no-cook / fresh variety night |
-| **Thursday** | Batch Chili Con Carne | ~45 g protein | Prepared in Wed batch cook |
+| **Wednesday** | Batch Chili Con Carne or Omelette + Mackerel | ~40–45 g protein | Batch chili or quick no-cook option |
+| **Thursday** | Batch Chili Con Carne | ~45 g protein | Prepared in Wed batch cook (or Sun batch) |
 | **Friday** | Batch Baked Salmon | ~42 g protein | Prepared in Wed batch cook |
 
 ---

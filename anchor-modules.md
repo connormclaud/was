@@ -50,12 +50,12 @@ Anchor modules are the pre-prepared batch protein and carbohydrate bases that an
 
 ## Anchor 3 — Lean Beef Chili Con Carne
 
-- **Yield**: 2 dinner portions (Mon & Thu)
+- **Yield**: 3 portions (Mon dinner, Wed dinner, Thu lunch)
 - **Protein**: ~45 g per serving
 
 ### Ingredients
-- 300–350 g Lean ground beef (≤5% or ≤7% fat)
-- 1 Can kidney beans (drained)
+- 450–500 g Lean ground beef (≤5% or ≤7% fat)
+- 1–2 Cans kidney beans (drained)
 - 1 Can chopped tomatoes
 - 1 Onion, diced & 2 cloves garlic, minced
 - Chili powder, cumin, oregano, smoked paprika, salt
@@ -64,7 +64,7 @@ Anchor modules are the pre-prepared batch protein and carbohydrate bases that an
 1. Brown the ground beef in a heavy pan over medium-high heat until fully cooked. Drain excess liquid.
 2. Add diced onion and garlic; cook until soft.
 3. Stir in spices, canned tomatoes, and kidney beans. Simmer for 20–25 minutes until thickened.
-4. Portion equally for Monday and Thursday dinners.
+4. Portion equally into 3 servings for Monday dinner, Wednesday dinner, and Thursday lunch.
 
 ---
 
